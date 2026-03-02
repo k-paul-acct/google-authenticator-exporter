@@ -6,7 +6,7 @@
 #
 pillow==12.1.1
     # via -r requirements.in
-protobuf==6.33.5
+protobuf==7.34.0
     # via -r requirements.in
 pyotp==2.9.0
     # via -r requirements.in
