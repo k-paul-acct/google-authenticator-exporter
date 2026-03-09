@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements-dev.in
 #
-black==26.1.0
+black==26.3.0
     # via -r requirements-dev.in
 click==8.1.8
     # via black
@@ -36,5 +36,5 @@ pygments==2.19.2
     # via pytest
 pytest==9.0.2
     # via -r requirements-dev.in
-pytokens==0.3.0
+pytokens==0.4.1
     # via black
